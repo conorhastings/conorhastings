@@ -6,7 +6,7 @@
 
 - Website [https://conor.im](https://conor.im)
 
-- i make music sometimes [https://wistfullife.bandcamp.com/](https://wistfullife.bandcamp.com/)
+- i make music sometimes [https://wistful-life.bandcamp.com/](https://wistfullife.bandcamp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
