@@ -8,8 +8,6 @@
 
 - i make music sometimes [https://wistfullife.bandcamp.com/](https://wistfullife.bandcamp.com/)
 
-- email **imconor@conor..im**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/stillconor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stillconor" height="30" width="40" /></a>
