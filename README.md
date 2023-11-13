@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/stillconor" target="blank"><img src="https://img.shields.io/twitter/follow/stillconor?logo=twitter&style=for-the-badge" alt="stillconor" /></a> </p>
 
-- Website [https://conor.im](https://conor.im)
+- Website [goodat.online](http://goodat.online)
 
 - i make music sometimes [https://wistful-life.bandcamp.com/](https://wistfullife.bandcamp.com/)
 
